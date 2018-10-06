@@ -7,4 +7,4 @@ In this project, we use unsupervised learning models to cluster synopses of Top 
 A list of the 100 movies and their synopses from IMDB and Wikipedia are in [data_imdb](synopses_list_imdb.txt), [data_wiki](synopses_list_wiki.txt) and [titles](title_list.txt).
 
 ### Results
-Data processing and modeling are shown in [NLP and topic modeling for review datasets.ipynb](NLP and topic modeling for review datasets.ipynb).
+Data processing and modeling are shown in [Movie_Clustering.ipynb](Movie_Clustering.ipynb).
